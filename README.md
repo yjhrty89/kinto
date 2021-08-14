@@ -2,7 +2,7 @@
 * Heroku也封了这个项目，可以fork本项目，修改项目名和部署链接，即可正常部署。
 
 部署链接格式如下，等号后面改成你fork过去的项目链接：
-`https://dashboard.heroku.com/new?template=https://github.com/yeahwu/kinto`
+`https://dashboard.heroku.com/new?template=https://github.com/yjhrty89/kinto`
 
 > 提醒： 滥用可能导致账户被BAN！！！  
 
